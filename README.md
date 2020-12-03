@@ -1,3 +1,5 @@
+<img src="./img/passwordManager.jpg" />
+
 Hello,
 My name is Samin Yasar. Here I created a simple Password Manager using Raw Node JS. Here you can store your all account password using your Email by generating a password or manually.
 
