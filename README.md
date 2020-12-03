@@ -7,7 +7,8 @@ How to use it:
 
 1. Make sure you installed Node js in your machine. You can download Node js from here https://nodejs.org/en/download/
 2. Create a folder named (Password Manager).
-3. Then go to here and download all files and folders.
+3. Then go to here https://github.com/saminyasar004/Password-Manager-Using-Node-JS 
+and download all files and folders.
 4. Now go the folder which you created in your machine (step 2).
 5. Copy from all files and folders which you download in (step 3).
 6. Paste all in your created folder (step 2).
