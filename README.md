@@ -7,16 +7,16 @@ Inspired from https://www.youtube.com/watch?v=hkhyKJj28Ac
 
 How to use it:
 
-1. Make sure you installed Node js in your machine. You can download Node js from here https://nodejs.org/en/download/
+1. Make sure you installed Node js on your machine. You can download Node js from here https://nodejs.org/en/download/
 2. Create a folder named (Password Manager).
-3. Then go to here https://github.com/saminyasar004/Password-Manager-Using-Node-JS 
+3. Then go here https://github.com/saminyasar004/Password-Manager-Using-Node-JS 
 and download all files and folders.
-4. Now go the folder which you created in your machine (step 2).
+4. Now go to the folder which you created in your machine (step 2).
 5. Copy from all files and folders which you download in (step 3).
 6. Paste all in your created folder (step 2).
-7. Now open the terminal and go the created folder directory (step 2).
+7. Now open the terminal and go to the created folder directory (step 2).
 8. Type node app
-9. Follow the all direction step by step.
+9. Follow all directions step by step.
 10. Now enjoy...
 
 Follow me on:
